@@ -4,5 +4,5 @@ This is a convolutional neural network project using Tensor flow it has a accura
 
 Mnist train dataset link:https://drive.google.com/file/d/1xr0_CY1QtT6MVEqo5nv_OgU_iISnWFlx/view?usp=sharing
 
-Mnist test dataset : Already uploaded here with name fashion-mnist.csv
+Mnist test dataset : Already uploaded here with name fashion-mnist_test.csv
 
