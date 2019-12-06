@@ -12,4 +12,4 @@ Project Link : https://github.com/priteshsingh-vats/-FASHION-MNSIT-/blob/master/
 
 some testing images are in Newfolder
 
-Check the paths of datasets carefully and change according to the need
+Check the paths of datasets carefully and change according to the need of your Local system
