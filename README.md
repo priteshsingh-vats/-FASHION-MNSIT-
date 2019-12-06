@@ -7,3 +7,5 @@ Mnist train dataset link: https://drive.google.com/file/d/1xr0_CY1QtT6MVEqo5nv_O
 Mnist test dataset : Already uploaded here with name fashion-mnist_test.csv
 
 Libraries needed to be installed:  Pandas ,Numpy and matplotlib
+
+Project Link : https://github.com/priteshsingh-vats/-FASHION-MNSIT-/blob/master/Fahion%20Mnist%20Cnn%20in%20keras.ipynb
