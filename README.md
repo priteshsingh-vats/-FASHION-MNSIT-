@@ -6,3 +6,4 @@ Mnist train dataset link: https://drive.google.com/file/d/1xr0_CY1QtT6MVEqo5nv_O
 
 Mnist test dataset : Already uploaded here with name fashion-mnist_test.csv
 
+Insatll Libraries such as Pandas ,Numpy and matplotlib
